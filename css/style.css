@@ -1,0 +1,73 @@
+h1{
+    text-align: center;
+}
+.quoteArea{
+    display: flex;
+    justify-content: left;
+    border-radius: 16px;
+
+}
+
+.card{
+    width: 800px;
+    margin: 25px 0px;
+    background-color: #fafafa;
+    padding: 25px;
+}
+
+.card-details li{
+    list-style: none;
+    font-size: 18px;
+}
+
+.card-title span{
+    color: #ed2226;
+}
+
+.total-budget{
+    list-style: none;
+    color: green;
+    font-weight: 700;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link{
+    background-color: #ed2226;
+}
+
+.nav-link{
+    color: #252525;
+}
+
+.nav-link:hover{
+    color: #ed2226;
+}
+
+.form-container{
+    background-color: #dedede;
+    border-radius: 16px;
+    padding: 25px;
+    margin: 50px 0px;
+    -webkit-box-shadow: 5px 5px 19px 5px rgba(0,0,0,0.5); 
+    box-shadow: 5px 5px 19px 5px rgba(0,0,0,0.5);
+}
+
+form label{
+    font-size: 18px;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+}
+
+form{
+    padding: 25px;
+}
+
+.btn{
+    margin: 15px 0px;
+}
+
+.error{
+    color:#ed2226;
+    margin-left: 10px;
+    margin-top: 5px;
+    font-weight: 700;
+}

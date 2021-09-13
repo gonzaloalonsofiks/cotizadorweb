@@ -1,0 +1,10 @@
+[
+    {"service_id": 101, "service_category": "service_main", "service_description" : "Sitio web básico con información o institucional (1 página)", "service_price" : 25000},
+    {"service_id": 102, "service_category": "service_main", "service_description" : "Sitio web básico con información o institucional (hasta 5 páginas)", "service_price" : 32000},
+    {"service_id": 103, "service_category": "service_main", "service_description" : "Sitio web con integración de e-commerce", "service_price" : 35000},
+    {"service_id": 104, "service_category": "service_main", "service_description" : "Sitio web con blog", "service_price" : 35000},
+    {"service_id": 201, "service_category": "service_additional", "service_description" : "Adicional: Integración con Mercado Pago", "service_price" : 2700},
+    {"service_id": 202, "service_category": "service_additional", "service_description" : "Adicional: Integración con Correo Argentino", "service_price" : 3000},
+    {"service_id": 203, "service_category": "service_additional", "service_description" : "Acceso de usuarios al panel de control y/o gestionar cuentas", "service_price" : 2900},
+    {"service_id": 999, "service_category": "service_fee", "service_description" : "Fee de Project Management", "service_price" : 0.2}
+]
